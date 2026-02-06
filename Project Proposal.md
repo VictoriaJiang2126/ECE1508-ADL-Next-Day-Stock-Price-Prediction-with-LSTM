@@ -1,4 +1,4 @@
-Topic: Next-Day Stock Price Prediction with LSTM
+# Topic: Next-Day Stock Price Prediction with LSTM
 
 ## **Objective**
 
